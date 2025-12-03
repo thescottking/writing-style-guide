@@ -78,7 +78,19 @@ This guide is prescriptive. Every rule is required.
 
 ### 3.6 Orchestration Over Conversation
 - Chat is not automation  
-- Knowledge must trigger actions  
+- Knowledge must trigger actions
+
+### 3.12 Enterprise-Scale and Flexibility
+- Scaling without slowing down
+-   More agents = more intelligence, not more chaos.
+
+Bring-your-own-model
+
+Hot swap, cost optimize, route intelligently.
+
+Deployment flexibility
+
+SaaS discipline across hosting models.
 
 ---
 
