@@ -5,7 +5,7 @@
 This document trains writers, marketers, AI agents, and prompt engineers to produce content that matches Scott King's preferred writing style for all Krista-related materials.  
 It applies to articles, social posts, landing pages, emails, sales scripts, webinars, executive briefs, product descriptions, case studies, and prompt instructions.
 
-This guide is prescriptive. Every rule is required.
+This guide is prescriptive.
 
 ---
 
