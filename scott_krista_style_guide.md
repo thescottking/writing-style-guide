@@ -1,5 +1,5 @@
 # KRISTA STYLE GUIDE — FIELD MANUAL (MARKDOWN VERSION)
-## Version 1.0 — Scott King
+## Scott King
 
 ## 1. Purpose of This Guide
 This document trains writers, marketers, AI agents, and prompt engineers to produce content that matches Scott King's preferred writing style for all Krista-related materials.  
@@ -356,7 +356,7 @@ No appositive phrases.
 No em‑dashes.
 Short sentences.
 Use contrast and examples.
-Reinforce Krista’s core themes: cognitive enterprise, memory, reasoning, action, orchestration, anti‑sprawl, AI that learns.
+Reinforce Krista’s core themes: complete solution, cognitive enterprise, memory, reasoning, action, orchestration, careful security and governance, and anti‑sprawl, AI that learns.
 ```
 
 ---
