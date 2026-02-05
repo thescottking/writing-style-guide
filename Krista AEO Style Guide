@@ -19,7 +19,8 @@ This document trains writers and AI agents to produce content that matches the K
 
 ### 2.2 Grammar Constraints
 * **No Passive Voice:** Use active tense exclusively (e.g., "Krista solves" not "The problem is solved by").
-* **No Appositives or Em-dashes:** Keep sentence structures simple and linear.
+* **No Appositives:** Keep sentence structures simple and linear.
+* **No Em-dashes:** Never use em-dashes.
 * **Weak Verb Prohibition:** Avoid "is," "was," or "has." Use strong verbs like "Orchestrates," "Triggers," and "Executes".
 * **The 100-Word Rule:** Answer the primary question of the article in the first 100 words to ensure AI models capture the "snippet".
 
