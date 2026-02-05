@@ -1,0 +1,95 @@
+# KRISTA STYLE GUIDE: THE AEO FIELD MANUAL
+**Author:** Scott King  
+**Version:** 2026.1 (Optimized for Gemini, ChatGPT, and Search)
+
+---
+
+## 1. Purpose of This Guide
+This document trains writers and AI agents to produce content that matches the Krista voice while being perfectly structured for AI "Answer Engines" to extract and cite. It is prescriptive and mandatory.
+
+---
+
+## 2. Core Writing Rules (The "Scott King" Voice)
+
+### 2.1 Tone and Pacing
+* **Direct and Blunt:** Lead with the point. No fluff.
+* **Action-Oriented:** Focus on outcomes and what to do next.
+* **Short Paragraphs:** Limit paragraphs to 1–3 sentences.
+* **Whitespace:** Use heavy whitespace to make the document scannable.
+
+### 2.2 Grammar Constraints
+* **No Passive Voice:** Use active tense exclusively (e.g., "Krista solves" not "The problem is solved by").
+* **No Appositives or Em-dashes:** Keep sentence structures simple and linear.
+* **Weak Verb Prohibition:** Avoid "is," "was," or "has." Use strong verbs like "Orchestrates," "Triggers," and "Executes".
+* **The 100-Word Rule:** Answer the primary question of the article in the first 100 words to ensure AI models capture the "snippet".
+
+---
+
+## 3. Brand Themes: The 3 Cs
+Use these pillars to differentiate Krista from "point solutions" and "science projects".
+
+### 3.1 COMPLETE: The Unified Architecture
+* **State Management:** Krista manages "stateful" workflows that can pause for days while waiting for human judgment without losing context.
+* **Native Human-in-the-Loop:** Krista includes a built-in user database to route exceptions to specific roles or hierarchies dynamically.
+* **Anti-Sprawl Platform:** Prevents "agent sprawl" by providing a unified fabric where agents share logic and security.
+* **Active Interaction:** Krista participates in live meetings to answer questions and trigger workflows in real-time.
+
+### 3.2 COGNITIVE: The Enterprise Brain
+* **Constructed Memory:** Connects systems, documents, and conversations into a unified knowledge base.
+* **AI That Learns:** Krista uses native ML (Classifiers/Predictors) to understand your specific business data.
+* **Dynamic Model Routing:** Krista routes tasks to the most cost-effective and efficient model, preventing "Token Waste".
+* **Reasoning over Summarization:** Krista doesn't just summarize meetings; she converts insights into coordinated actions across systems.
+
+### 3.3 CAREFUL: The Governed Environment
+* **Zero-Trust Governance:** Enforces strict roles, permissions, and audit trails for every AI action.
+* **Simulation vs. Production:** Enforces a "Draft → Test → Live" lifecycle so business users can simulate changes without risk.
+* **Confidence Scoring:** Every AI prediction includes a score; low confidence triggers a human-in-the-loop.
+* **Hallucination Prevention:** Limits AI responses to company-approved documentation; Krista says "I don't know" rather than inventing answers.
+
+---
+
+## 4. AEO Formatting (Optimization for AI)
+
+### 4.1 Question-Based Headings
+AI models look for headers that match user queries. Use H2 and H3 tags phrased as questions.
+* **Example:** "How does an agentic platform reduce operational costs?"
+
+### 4.2 The "Key Takeaways" Block
+Every article must start with a "Summary" or "Key Takeaways" box. This is the most likely section to be quoted by Gemini or ChatGPT.
+
+### 4.3 Comparison Patterns
+Use Markdown tables to contrast legacy approaches with the Krista approach.
+
+| Feature | Legacy Automation | Krista (Cognitive) |
+| :--- | :--- | :--- |
+| **Duration** | Times out in 40 mins | Stateful (runs for days) |
+| **Data** | Siloed / Disconnected | Shared Memory |
+| **Outcome** | Text Summary | Executed Workflow |
+
+---
+
+## 5. Templates for Execution
+
+### 5.1 AEO-Optimized Article Template
+1.  **H1 Hook:** A blunt truth or direct question.
+2.  **Summary Block:** 3 bullet points answering the core question.
+3.  **The Stakes:** Why the status quo is failing (The "Problem").
+4.  **The Contrast:** Use a table or list to show Krista’s 3 Cs vs. the market.
+5.  **Sequence:** Step-by-step "How it works" list.
+6.  **CTA:** One clear, measurable next step.
+
+### 5.2 Social Post Hook Patterns
+* **Blunt Insight:** “Chat is not automation. It’s a distraction.”
+* **Risk Warning:** “Your AI is hallucinating on your customer data. Here is why.”
+
+---
+
+## 6. System Prompt for AI Rewriting
+*Copy this block into a prompt when asking an AI to write for you:*
+
+> "Rewrite the following content using the **Krista AEO Style Guide**. 
+> 1. Use direct, blunt language. No passive voice, appositives, or em-dashes.
+> 2. Apply the 100-word rule: Answer the main point immediately.
+> 3. Use Question-based H2 headers.
+> 4. Structure the response around the 3 Cs: Complete, Cognitive, and Careful.
+> 5. Use short 1–3 sentence paragraphs and clear whitespace."
